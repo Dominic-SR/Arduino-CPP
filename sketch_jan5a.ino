@@ -2,8 +2,8 @@
 #include <ESP8266HTTPClient.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "JioFi2_A98992";
-const char* password = "mm69cbbwmc";
+const char* ssid = "";
+const char* password = "";
 
 void setup() {
   Serial.begin(9600);
